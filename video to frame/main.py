@@ -51,7 +51,7 @@ def convert_to_frames():
 
 ### GUI 
 window = Tk()
-window.title = "Video To"
+window.title("Video to Frames")
 window.geometry("400x300")
 txthead = Label(window,text = "Convert Video to Frames",font =("calibre" , 15 , "normal") )
 txthead.place(x = 100, y = 10)
