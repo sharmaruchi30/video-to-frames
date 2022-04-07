@@ -4,7 +4,7 @@ Python program to convert video to frames
 This python program converts any video file to frames
 
 ## Usage
-1. Clone this project git clone 
+1. Clone this project git clone https://github.com/sharmaruchi30/video-to-frames.git
 
 ##Steps
 1. Paste the location of the the video file or select the video file by clicking on open button.
